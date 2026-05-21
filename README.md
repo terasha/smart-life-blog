@@ -1,0 +1,2 @@
+# -smart-life-blog
+blog

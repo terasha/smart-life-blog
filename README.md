@@ -1,2 +1,2 @@
-# -smart-life-blog
+# smart-life-blog
 blog

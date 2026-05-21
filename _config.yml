@@ -1,0 +1,7 @@
+title: Smart Life - 스마트 라이프
+description: IT 테크 팁, 재테크, 생활 꿀팁 블로그
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+lang: ko
